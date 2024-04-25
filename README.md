@@ -8,8 +8,8 @@ If there are additional insights of interests to the company, they should also c
 
 Some additional info about the platform:
 
-The platform focuses on user anonymity by tracking user interactions on each piece of content instead of the user profiles themselves.
+ • The platform focuses on user anonymity by tracking user interactions on each piece of content instead of the user profiles themselves.
 
-They also provide users with over 100 different types of ‘reactions’ (or interactions) to engage with each piece of content.
+ • They also provide users with over 100 different types of ‘reactions’ (or interactions) to engage with each piece of content.
 
-Each of the ‘reactions’ has a ranking score attached to it. The higher the score, the better.
+ • Each of the ‘reactions’ has a ranking score attached to it. The higher the score, the better.
